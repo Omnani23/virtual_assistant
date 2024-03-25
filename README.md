@@ -1,15 +1,15 @@
 # Jarvis - Personal Assistant
 Jarvis is a Python-based personal assistant designed to assist users with various tasks through voice commands. It utilizes several APIs and libraries to perform tasks like fetching news, sending emails, playing YouTube videos, and more.
 ## Installation
-To use Jarvis, ensure you have Python installed on your system. Additionally, install the required packages using pip:
-->pip install -r requirements.txt
+### To use Jarvis, ensure you have Python installed on your system. Additionally, install the required packages using pip:
+      pip install -r requirements.txt
 ## Usage
-Run the script jarvis.py:
--> python jarvis.py
+### Run the script jarvis.py:
+      python jarvis.py
 Jarvis will greet you and await your commands.
 ## Features
-### Voice Interaction
-      Jarvis interacts with the user through voice commands. It uses the speech_recognition library to recognize and process user commands.
+## Voice Interaction
+Jarvis interacts with the user through voice commands. It uses the speech_recognition library to recognize and process user commands.
 ### Core Functionalities
 Greet User: Jarvis greets the user based on the time of day (Morning, Afternoon, Evening).
 Open Applications: You can ask Jarvis to open applications like Notepad, Command Prompt, Camera, and Calculator.
