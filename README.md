@@ -11,12 +11,12 @@ Jarvis will greet you and await your commands.
 ## Voice Interaction
 Jarvis interacts with the user through voice commands. It uses the speech_recognition library to recognize and process user commands.
 ### Core Functionalities
-Greet User: Jarvis greets the user based on the time of day (Morning, Afternoon, Evening).
-Open Applications: You can ask Jarvis to open applications like Notepad, Command Prompt, Camera, and Calculator.
-Retrieve IP Address: Jarvis can fetch and announce the user's IP address.
-Wikipedia Search: Allows users to search for information on Wikipedia.
-YouTube Integration: Plays YouTube videos based on user requests.
-Google Search: Performs searches on Google.
+- Greet User: Jarvis greets the user based on the time of day (Morning, Afternoon, Evening).
+- Open Applications: You can ask Jarvis to open applications like Notepad, Command Prompt, Camera, and Calculator.
+- Retrieve IP Address: Jarvis can fetch and announce the user's IP address.
+- Wikipedia Search: Allows users to search for information on Wikipedia.
+- YouTube Integration: Plays YouTube videos based on user requests.
+- Google Search: Performs searches on Google.
 Send WhatsApp Message: Enables users to send WhatsApp messages to specified contacts.
 Send Email: Sends emails to specified recipients.
 Fetch Jokes and Advice: Provides users with random jokes and advice.
